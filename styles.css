@@ -109,11 +109,22 @@ img {
     display: flex;
     margin-right: 1.5vh;
     position: relative;
-
     background-color: #2f4553;
     border-radius: 12px 12px 12px 12px;
 }
 
+.about_desc_big {
+    float: right;
+    width: 78%;
+    height: fit-content;
+    display: flex;
+    margin-top: 1.5vh;
+    margin-right: 1.5vh;
+    position: relative;
+
+    background-color: #2f4553;
+    border-radius: 12px 12px 12px 12px;
+}
 .p_about_desc {
     font-size: 2.1vh;
     text-align: left;

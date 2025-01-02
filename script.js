@@ -1,3 +1,10 @@
+
+
+
+var copy = document.querySelector(".logos-slide").cloneNode(true);
+document.querySelector(".logos").appendChild(copy);
+
+
 // // Створення об'єкта студента
 // function Student(name, surname, age, id, averageGrade) {
 //     this.name = name;

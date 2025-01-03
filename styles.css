@@ -60,7 +60,7 @@ img {
 .footer_container {
     margin: 31px 0 0 0;
     float: right;
-    padding: 20px;
+    padding: 0 0 20px;
     width: 100%;
     display: block;
     height: fit-content;
@@ -99,7 +99,7 @@ img {
 .further-icon {
     width: 51px;
     height: 51px;
-    display: inline-block;
+    display: block;
     background-color: #538f8d;
     float: right;
     align-items: center;

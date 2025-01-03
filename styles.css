@@ -139,6 +139,9 @@ a:hover{
     a:active{
         opacity: 0.6 !important;
     }
+    a:hover{
+        opacity: 1 !important;
+    }
 }
 @media screen and (min-width: 620px) and (max-device-width: 1450px) {
     .p_about_desc_big {

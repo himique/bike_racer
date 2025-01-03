@@ -135,7 +135,7 @@ a:hover{
         width: 61%;
     }
 }
-@media screen and (min-width: 1px){
+@media screen and (min-width: 1px) and (max-device-width: 619px){
     a:active{
         opacity: 0.6 !important;
     }

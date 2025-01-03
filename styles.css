@@ -107,7 +107,7 @@ img {
     border-radius: 12px;
 
 }
-a:hover{
+a:active{
     opacity: 0.6;
 }
 .resolution {
@@ -118,7 +118,9 @@ a:hover{
     .about_desc_big {
         width: 55% !important;
     }
-
+    a:hover{
+        opacity: 0.6;
+    }
     .imgback {
         width: 40% !important;
     }
@@ -135,15 +137,8 @@ a:hover{
         width: 61%;
     }
 }
-@media screen and (min-width: 1px) and (max-device-width: 619px){
-    a:active{
-        opacity: 0.6 !important;
-    }
-    a:hover{
-        opacity: 1 !important;
-    }
-}
-@media screen and (min-width: 620px) and (max-device-width: 1450px) {
+
+@media screen and (min-width: 620px) and (max-device-width: 1449px) {
     .p_about_desc_big {
         font-size: 23px !important;
     }

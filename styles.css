@@ -247,7 +247,7 @@ img {
 .logos {
     overflow: hidden;
     padding: 10px 0 10px 0;
-    margin: 35px 0;
+    margin: 0 0 35px 0;
     background: black;
     white-space: nowrap;
     position: relative;
